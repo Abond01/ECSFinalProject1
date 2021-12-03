@@ -1,0 +1,34 @@
+h1 {
+
+	color:yellow;
+font-family:Impact;
+
+}
+
+title {
+
+	color:yellow;
+	font-family:Impact;
+}
+
+
+p {
+	color:yellow;
+	font-family:Impact;
+	border-style:Solid;
+	padding:10px;
+
+
+}
+
+body {
+background-color:green;
+
+}
+
+img {
+
+border-style:Solid;
+border-color:darkred;
+padding:6px;
+}
